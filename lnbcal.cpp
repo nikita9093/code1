@@ -9,7 +9,7 @@ int main(){
         cout<<sum;
     }
     else{
-        cout<<"Hello LNB code is running fine";
+        cout<<"Hello LNB code is running fine and also published on git";
     }
     return 0;
 }
